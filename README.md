@@ -1,0 +1,2 @@
+# Conflict
+Testing git merge
